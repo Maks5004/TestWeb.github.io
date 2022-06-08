@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html class="is-home windows desktop landscape" lang="en">
+<head>
+    <title>TestSlider</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="./css/slider.css" rel="stylesheet">
+</head>
+<body>
+<div id="main">
+	<div class="slider">
+	    <div class="item">
+	        <img src="imgslider/1_600_600.jpg" alt="Первый слайд">
+	    </div>
+
+	    <div class="item">
+	        <img src="imgslider/2_600_600.jpg" alt="Второй слайд">
+	    </div>
+
+	    <div class="item">
+	        <img src="imgslider/3_600_600.jpg" alt="Третий слайд">
+	    </div>
+
+	    <div class="item">
+	        <img src="imgslider/4_600_600.jpg" alt="Четвёртый слайд">
+	    </div>
+
+	    <div class="item">
+	        <img src="imgslider/5_600_600.jpg" alt="Пятый слайд">
+	    </div>
+
+	    <div class="item">
+	        <img src="imgslider/6_600_600.jpg" alt="Шестой слайд">
+	    </div>
+
+	    <button class="prev" onclick="minusSlide()">&#10094;</button>
+	    <button class="next" onclick="plusSlide()">&#10095;</button>
+	</div>
+
+	<div class="slider-dots">
+	    <span class="slider-dots_item" onclick="currentSlide(1)"></span>
+	    <span class="slider-dots_item" onclick="currentSlide(2)"></span>
+	    <span class="slider-dots_item" onclick="currentSlide(3)"></span>
+	    <span class="slider-dots_item" onclick="currentSlide(4)"></span>
+	    <span class="slider-dots_item" onclick="currentSlide(5)"></span>
+	    <span class="slider-dots_item" onclick="currentSlide(6)"></span>
+	</div>
+</div>
+
+<script src="./js/slider.js"></script>
+</body>
+</html>
+
