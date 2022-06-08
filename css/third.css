@@ -1,0 +1,68 @@
+.third-screen{
+   position: absolute;
+   width: 1440px;
+   height: 1060px;
+   left: 0px;
+   top: 2470px;
+}
+
+.third-screen__fon{
+   position: absolute;
+   width: 1440px;
+   height: 836px;
+   left: 0px;
+   top: 25px;
+
+   background: url(../img/lui.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.third-screen__shadow{
+   position: absolute;
+   width: 1440px;
+   height: 1060px;
+   left: 0px;
+   top: 0px;
+   background: linear-gradient(179.83deg, #000000 -1.1%, rgba(0, 0, 0, 0) 56.76%, #000000 83.92%);
+}
+
+.third-screen__iPhoneX_p31{
+   position: absolute;
+   width: 332.56px;
+   height: 667.15px;
+   left: 100px;
+   top: 467px;
+
+   background: url(../img/iPhoneX_p31.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.third-screen__iPhoneX_p32{
+   position: absolute;
+   width: 332.56px;
+   height: 667.15px;
+   left: 482px;
+   top: 467px;
+
+   background: url(../img/iPhoneX_p32.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.third-screen__h2_idscanner{
+   position: absolute;
+   width: 400px;
+   height: 62px;
+   left: 943px;
+   top: 814px;
+}
+
+.third-screen__idscanner{
+   position: absolute;
+   width: 316px;
+   height: 125px;
+   left: 943px;
+   top: 939px;
+}

@@ -1,0 +1,155 @@
+.second-screen__blockleft{
+
+   box-sizing: border-box;
+
+   position: absolute;
+   width: 503px;
+   height: 312px;
+   left: 176px;
+   top: 1131px;
+
+   border: 2px solid rgba(255, 255, 255, 0.5);
+   border-radius: 21.3671px;
+}
+
+.second-screen__blockrigth{
+   box-sizing: border-box;
+
+   position: absolute;
+   width: 503px;
+   height: 312px;
+   left: 760px;
+   top: 1131px;
+
+   border: 2px solid rgba(255, 255, 255, 0.5);
+   border-radius: 21.371px;
+}
+
+.second-screen__contact{
+   position: absolute;
+   width: 375px;
+   height: 123px;
+   left: 55px;
+   top: 64px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 30px;
+   line-height: 41px;
+   display: flex;
+   align-items: flex-end;
+}
+
+.second-screen__email{
+   cursor: pointer;
+   position: absolute;
+   width: 232px;
+   height: 33px;
+   left: 55px;
+   top: 217px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 33px;
+
+   text-decoration-line: underline;
+}
+
+.second-screen__email:hover {
+   animation: bounce 1s;
+}
+
+.second-screen__partner{
+   position: absolute;
+   width: 325px;
+   height: 46.22px;
+   left: 54.78px;
+   top: 97px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 30px;
+   line-height: 41px;
+   display: flex;
+   align-items: center;
+
+   color: #FFFFFF;
+
+}
+
+.second-screen__login{
+   cursor: pointer;
+   position: absolute;
+   width: 88.11px;
+   height: 44.78px;
+   left: 54.78px;
+   top: 173.22px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 33px;
+   text-decoration-line: underline;
+}
+
+.second-screen__login:hover {
+   animation: bounce 1s;
+}
+
+.second-screen__div_ourmission{
+   position: absolute;
+   width: 1440px;
+   height: 1048px;
+   left: 0px;
+   top: 1442px;
+}
+
+.second-screen__iphonx{
+   position: absolute;
+   width: 498px;
+   height: 999.06px;
+   left: 0px;
+   top: 36px;
+
+   background: url(../img/iPhoneX.png);
+   transform: rotate(90deg);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.second-screen__h2_ourmission{
+   position: absolute;
+   width: 358px;
+   height: 124px;
+   left: 919px;
+   top: 236px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.second-screen__ourmission{
+   position: absolute;
+   width: 315px;
+   height: 175px;
+   left: 919px;
+   top: 417px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.second-screen__backpic1{
+   position: absolute;
+   width: 85px;
+   height: 85px;
+   left: 1116px;
+   top: 243px;
+   background: #F101BF;
+   filter: blur(70px);
+}

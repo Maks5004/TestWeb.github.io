@@ -1,0 +1,27 @@
+.eighth-screen{
+   position: absolute;
+   width: 1440px;
+   height: 1003px;
+   left: 0px;
+   top: 8126px;
+   background: url(../img/eighth.svg);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.eighth-screen__shadow{
+   position: absolute;
+   width: 1440px;
+   height: 1003px;
+   left: 0px;
+   top: 0px;
+   background: linear-gradient(360deg, #000000 6.8%, rgba(0, 0, 0, 0) 51.62%, #000000 97.38%);
+}
+
+.eighth-screen__iPhoneXnotab{
+   position: absolute;
+   width: 858.94px;
+   height: 428.16px;
+   left: 292px;
+   top: 329px;
+}

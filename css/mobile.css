@@ -1,0 +1,777 @@
+@media (max-width: 500px) {
+
+   .page-bg {
+      width: 375px;
+      height: 9595px;
+   }
+
+   .main-header__logo-icon
+   {
+      width: 51.73px;
+      height: 52.69px;
+      left: 15px;
+      top: 40px;
+   }
+
+   .main-header__logo-name{
+      width: 46.41px;
+      height: 11.96px;
+      left: 70.59px;
+      top: 62.24px;
+   }
+
+   .main-header__login-pic{
+      visibility: hidden;
+   }
+
+   .main-header__login-text{
+      width: 38px;
+      height: 19px;
+      left: 322px;
+      top: 51px;
+
+      font-size: 14px;
+      line-height: 19px;
+   }
+
+   .main-header__login-line{
+      width: 38px;
+      height: 0px;
+      left: 322px;
+      top: 76px;
+   }
+
+   .first-screen__backpic1{
+      width: 363.95px;
+      height: 430.08px;
+      left: 156.51px;
+      top: 104.69px;
+      filter: blur(80px);
+      transform: rotate(-90.69deg);
+   }
+
+   .first-screen__backpic2{
+      left: -4px;
+      top: 307px;
+      filter: blur(100px);
+   }
+
+   .first-screen__title{
+      width: 207px;
+      height: 120px;
+      left: 15px;
+      top: 171px;
+
+      font-size: 35px;
+      line-height: 40px;
+   }
+
+   .first-screen__phoneshadow{
+      visibility: hidden;
+   }
+
+   .first-screen__iphonx{
+      width: 161px;
+      height: 322.99px;
+      left: 270px;
+      top: 158px;
+   }
+
+   .first-screen__line{
+      visibility: hidden;
+   }
+
+   .first-screen__text_info{
+      position: absolute;
+      width: 240px;
+      height: 88px;
+      left: 15px;
+      top: 335px;
+
+      font-size: 16px;
+      line-height: 22px;
+      display: flex;
+      align-items: flex-end;
+   }
+
+   .first-screen__h2_download{
+      width: 283px;
+      height: 29px;
+      left: 46px;
+      top: 536px;
+
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 29px;
+   }
+
+   .first-screen__stores{
+      position: relative;
+      width: 185px;
+      height: 144px;
+      left: 95px;
+      top: 599px;
+   }
+
+   .first-screen__appstore{
+      width: 185px;
+      height: 60px;
+      left: 0px;
+      top: 0px;
+   }
+
+   .first-screen__googleplay{
+      width: 185px;
+      height: 60px;
+      left:0px;
+      top: 84px;
+   }
+
+   .second-screen__blockleft{
+      width: 345px;
+      height: 233px;
+      left: 15px;
+      top: 813px;
+   }
+
+   .second-screen__blockrigth{
+      width: 345px;
+      height: 167px;
+      left: 15px;
+      top: 1076px;
+   }
+
+   .second-screen__contact{
+      width: 258px;
+      height: 99px;
+      left: 48px;
+      top: 39px;
+
+      font-size: 24px;
+      line-height: 33px;
+   }
+
+   .second-screen__email{
+      width: 174px;
+      height: 25px;
+      left: 48px;
+      top: 168px;
+      font-size: 18px;
+      line-height: 25px;
+   }
+
+   .second-screen__partner{
+      width: 223px;
+      height: 33px;
+      left: 48px;
+      top: 39px;
+
+      font-size: 24px;
+      line-height: 33px;
+   }
+
+   .second-screen__login{
+      width: 48px;
+      height: 25px;
+      left: 48px;
+      top: 102px;
+      font-size: 18px;
+      line-height: 25px;
+   }
+
+   .second-screen__div_ourmission{
+      position: absolute;
+      width: 375px;
+      height: 992px;
+      left: 0px;
+      top: 1243px;
+   }
+
+   .second-screen__iphonx{
+      width: 172.53px;
+      height: 346.12px;
+      left: 101.47px;
+      top: 458px;
+
+      transform: rotate(0deg);
+   }
+
+   .second-screen__h2_ourmission{
+      width: 287px;
+      height: 29px;
+      left: 15px;
+      top: 100px;
+
+      font-size: 24px;
+      line-height: 29px;
+   }
+
+   .second-screen__ourmission{
+      width: 315px;
+      height: 132px;
+      left: 15px;
+      top: 163px;
+
+      font-size: 16px;
+      line-height: 22px;
+   }
+
+   .second-screen__backpic1{
+      width: 85px;
+      height: 85px;
+      left: -9px;
+      top: 82px;
+      filter: blur(60px);
+   }
+
+   .third-screen{
+      position: absolute;
+      width: 375px;
+      height: 1645px;
+      left: 0px;
+      top: 2235px;
+   }
+
+   .third-screen__fon{
+      width: 454px;
+      height: 263px;
+      left: -41px;
+      top: 0px;
+   }
+
+   .third-screen__shadow{
+      position: absolute;
+      width: 457px;
+      height: 300px;
+      left: -41px;
+      top: 0px;
+   }
+
+   .third-screen__iPhoneX_p31{
+      width: 287.08px;
+      height: 575.93px;
+      left: 44px;
+      top: 438px;
+   }
+
+   .third-screen__iPhoneX_p32{
+      width: 287.08px;
+      height: 575.93px;
+      left: 44px;
+      top: 1069px;
+   }
+
+   .third-screen__h2_idscanner{
+      width: 138px;
+      height: 29px;
+      left: 15px;
+      top: 217px;
+      font-size: 24px;
+      line-height: 29px;
+   }
+
+   .third-screen__idscanner{
+      width: 345px;
+      height: 88px;
+      left: 15px;
+      top: 280px;
+      font-size: 16px;
+      line-height: 22px;
+   }
+
+   .four-screen{
+      position: absolute;
+      width: 375px;
+      height: 596px;
+      left: 0px;
+      top: 3880px;
+   }
+
+   .four-screen__fon1{
+      visibility: hidden;
+   }
+
+   .four-screen__h2_bltool{
+      width: 234px;
+      height: 29px;
+      left: 15px;
+      top: 134px;
+      font-size: 24px;
+      line-height: 29px;
+  }
+
+   .four-screen__bltool{
+      width: 338px;
+      height: 88px;
+      left: 15px;
+      top: 197px;
+
+      font-size: 16px;
+      line-height: 22px;
+   }
+
+   .four-screen__diagram{
+      position: absolute;
+      width: 375px;
+      height: 246px;
+      left: 0px;
+      top: 315px;
+      background: url(../img/mdiagrams.png);
+      background-size: contain;
+      background-repeat: no-repeat;
+   }
+
+   .five-screen{
+      position: absolute;
+      width: 375px;
+      height: 1980px;
+      left: 0px;
+      top: 4476px;
+   }
+
+   .five-screen__dj{
+      width: 416.2px;
+      height: 311px;
+      left: -28px;
+      top: 0px;
+   }
+
+   .five-screen__glass{
+      width: 352.44px;
+      height: 297px;
+      left: 63px;
+      top: 596px;
+   }
+
+   .five-screen__shadow{
+      width: 416px;
+      height: 335px;
+      left: -28px;
+      top: 0px;
+   }
+
+   .five-screen__nightlife{
+      width: 90.46px;
+      height: 36.62px;
+      left: 33px;
+      top: 730px;
+   }
+
+   .five-screen__iPhoneX_p51{
+      width: 280.98px;
+      height: 563.68px;
+      left: 47.02px;
+      top: 802px;
+   }
+
+   .five-screen__iPhoneX_p52{
+      width: 281px;
+      height: 563.73px;
+      left: 47px;
+      top: 1416px;
+   }
+
+   .five-screen__h2_qrcode{
+      width: 107px;
+      height: 29px;
+      left: 15px;
+      top: 217px;
+      font-size: 24px;
+      line-height: 29px;
+   }
+
+   .five-screen__qrcode{
+      width: 308px;
+      height: 88px;
+      left: 15px;
+      top: 280px;
+
+      font-size: 16px;
+      line-height: 22px;
+   }
+
+   .five-screen__stores{
+      position: absolute;
+      width: 185px;
+      height: 144px;
+      left: 95px;
+      top: 418px;
+   }
+
+   .six-screen{
+      position: absolute;
+      width: 375px;
+      height: 863px;
+      left: 0px;
+      top: 6456px;
+   }
+
+   .six-screen__fon{
+      position: absolute;
+      width: 309.08px;
+      height: 288.19px;
+      left: 35px;
+      top: 349px;
+
+      filter: blur(93.3565px);
+      border-radius: 142.636px;
+   }
+
+   .six-screen__notab{
+      width: 479.19px;
+      height: 122.33px;
+      left: -52px;
+      top: 422px;
+   }
+
+   .five-screen__iPhoneX_p61{
+      width: 181.58px;
+      height: 364.28px;
+      left: 97.21px;
+      top: 297px;
+   }
+
+   .six-screen__arrow{
+      left: 261.37px;
+      top: 617px;
+      transform: rotate(45.55deg);
+   }
+
+   .six-screen__arrow_text{
+      width: 133px;
+      height: 22px;
+      left: 209px;
+      top: 725px;
+      font-size: 18px;
+      line-height: 22px;
+   }
+
+   .six-screen__h2_QR{
+      width: 295px;
+      height: 29px;
+      left: 15px;
+      top: 120px;
+      font-size: 24px;
+      line-height: 29px;
+   }
+
+   .six-screen__QR{
+      width: 292px;
+      height: 44px;
+      left: 15px;
+      top: 183px;
+      font-size: 16px;
+      line-height: 22px;
+   }
+
+   .seven-screen{
+      position: absolute;
+      width: 375px;
+      height: 731px;
+      left: 0px;
+      top: 7319px;
+   }
+
+   .seven-screen__h2_guests{
+      width: 198px;
+      height: 58px;
+      left: 15px;
+      top: 0px;
+
+      font-size: 24px;
+      line-height: 29px;
+   }
+
+   .seven-screen__guests{
+      width: 354px;
+      height: 22px;
+      left: 15px;
+      top: 92px;
+
+      font-size: 16px;
+      line-height: 22px;
+   }
+
+   .seven-screen__iPhoneXSlong{
+      width: 360px;
+      height: 430px;
+      left: -7px;
+      top: 249px;
+   }
+
+   .seven-screen__backpic1{
+      position: absolute;
+      width: 287px;
+      height: 267px;
+      left: 235px;
+      top: 255px;
+   }
+
+   .seven-screen__adv_smalltext{
+      font-size: 14px;
+      line-height: 16px;
+   }
+
+   .adv1{
+      width: 165px;
+      height: 57px;
+      left: 39px;
+      top: 179px;
+   }
+
+   .adv2{
+      width: 171px;
+      height: 62px;
+      left: 189px;
+      top: 268px;
+   }
+
+   .adv3{
+      width: 107px;
+      height: 43px;
+      left: 30px;
+      top: 590px;
+   }
+
+   .adv4{
+      width: 122px;
+      height: 58px;
+      left: 238px;
+      top: 673px;
+   }
+
+   .eighth-screen{
+      visibility: hidden;
+   }
+
+   .eighth-screen__shadow{
+      visibility: hidden;
+   }
+
+   .eighth-screen__iPhoneXnotab{
+      visibility: hidden;
+   }
+
+   .nine-screen{
+      width: 375px;
+      height: 961px;
+      left: 0px;
+      top: 8050px;
+   }
+
+   .nine-screen__h2_getintouch{
+      width: 159px;
+      height: 29px;
+      left: 108px;
+      top: 85px;
+      font-size: 24px;
+      line-height: 29px;
+   }
+
+   .nine-screen__fon1{
+      position: absolute;
+      width: 250px;
+      height: 250px;
+      left: -99px;
+      top: 51px;
+      background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+      opacity: 0.3;
+      filter: blur(100px);
+      transform: rotate(5.78deg);
+   }
+
+   .nine-screen__fon2{
+      position: absolute;
+      width: 330px;
+      height: 330px;
+      left: 244px;
+      top: 829px;
+   }
+
+   .nine-screen__getintouch{
+      width: 323px;
+      height: 66px;
+      left: 26px;
+      top: 148px;
+      font-size: 16px;
+      line-height: 22px;
+   }
+
+   .nine-screen__contact_form{
+      position: absolute;
+      width: 345px;
+      height: 698px;
+      left: 15px;
+      top: 263px;
+   }
+
+   .nine-screen__row{
+      height: 57px;
+   }
+
+   .inputname{
+      width: 345px;
+      left: 0px;
+      top: 0px;
+   }
+
+   .inputvenuename{
+      width: 345px;
+      left: 0px;
+      top: 73px;
+   }
+
+   .inputvenuecity{
+      width: 345px;
+      left: 0px;
+      top: 146px;
+   }
+
+   .inputstatecity{
+      width: 345px;
+      left: 0px;
+      top: 219px;
+   }
+
+   .inputemail{
+      width: 345px;
+      left: 0px;
+      top: 292px;
+   }
+
+   .inputsubject{
+      width: 345px;
+      left: 0px;
+      top: 365px;
+   }
+
+   .inputmessage{
+      width: 345px;
+      left: 0px;
+      top: 438px;
+      height: 140px;
+   }
+
+   .nine-screen__submit{
+      width: 345px;
+      height: 80px;
+      left: 0px;
+      top: 618px;
+   }
+
+   .main-footer{
+     position: absolute;
+     width: 375px;
+     height: 584px;
+     top: 9011px;
+   }
+
+   .main-footer__fon1{
+      position: absolute;
+      width: 182px;
+      height: 182px;
+      left: -20px;
+      top: 389px;
+      filter: blur(50px);
+   }
+
+   .main-footer__download{
+      width: 309px;
+      height: 33px;
+      left: 53px;
+      top: 74px;
+      font-family: 'Noto Sans';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 33px;
+      letter-spacing: 0.03em;
+   }
+
+   .main-footer__stores{
+      width: 185px;
+      height: 144px;
+      left: 95px;
+      top: 152px;
+  }
+
+   .main-footer__appstore{
+      width: 185px;
+      height: 60px;
+      left: 0px;
+      top: 0px;
+   }
+
+   .main-footer__googleplay{
+      width: 185px;
+      height: 60px;
+      left: 0px;
+      top: 84px;
+   }
+
+   .main-footerlogo{
+      position: absolute;
+      width: 70.99px;
+      height: 14.16px;
+      left: 152px;
+      top: 482px;
+   }
+
+   .main-footer__contact{
+      width: 209px;
+      height: 19px;
+      left: 83px;
+      top: 513px;
+      font-size: 14px;
+      line-height: 19px;
+   }
+
+   .main-footer__co{
+      width: 116px;
+      height: 19px;
+      left: 130px;
+      top: 541px;
+
+      font-size: 14px;
+      line-height: 19px;
+   }
+
+   .main-footer__ttu{
+      width: 107px;
+      height: 25px;
+      left: 134px;
+      top: 360px;
+   }
+
+   .main-footer__pp{
+      width: 115px;
+      height: 25px;
+      left: 130px;
+      top: 399px;
+   }
+
+   .cookies{
+      width: 375px;
+      height: 93px;
+   }
+
+   .cookies__text{
+      width: 249px;
+      height: 48px;
+      left: 15px;
+      top: 22px;
+
+      font-size: 12px;
+      line-height: 16px;
+   }
+
+   .cookies__submit{
+      cursor: pointer;
+      position: absolute;
+      width: 92px;
+      height: 50px;
+      left: 268px;
+      top: 21px;
+   }
+
+}

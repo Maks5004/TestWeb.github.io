@@ -1,0 +1,103 @@
+.five-screen{
+   position: absolute;
+   width: 1440px;
+   height: 1024px;
+   left: 0px;
+   top: 4554px;
+}
+
+.five-screen__dj{
+   position: absolute;
+   width: 811px;
+   height: 606px;
+   left: -33px;
+   top: 0px;
+   background: url(../img/fivesection_dj.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.five-screen__glass{
+   position: absolute;
+   width: 733px;
+   height: 617px;
+   left: 789px;
+   top: -5px;
+
+   background: url(../img/fivesection_glass.png);
+   border-radius: 7.97735px 7.97735px 0px 0px;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.five-screen__shadow{
+   position: absolute;
+   width: 1455px;
+   height: 682px;
+   left: -14px;
+   top: 0px;
+
+   background: linear-gradient(179.83deg, #000000 -3.1%, rgba(0, 0, 0, 0) 56.76%, #000000 83.92%);
+}
+
+.five-screen__nightlife{
+   position: absolute;
+   width: 138.61px;
+   height: 54.24px;
+   left: 1199px;
+   top: -17px;
+
+   transform: rotate(-12.84deg);
+}
+
+.five-screen__iPhoneX_p51{
+   position: absolute;
+   width: 332.56px;
+   height: 667.15px;
+   left: 638px;
+   top: 220px;
+   background: url(../img/iPhoneX_p51.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.five-screen__iPhoneX_p52{
+   position: absolute;
+   width: 332.56px;
+   height: 667.15px;
+   left: 1051px;
+   top: 561px;
+   background: url(../img/iPhoneX_p52.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.five-screen__h2_qrcode{
+   position: absolute;
+   width: 226px;
+   height: 62px;
+   left: 181px;
+   top: 497px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.five-screen__qrcode{
+   position: absolute;
+   width: 315px;
+   height: 125px;
+   left: 181px;
+   top: 622px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.five-screen__stores{
+   position: absolute;
+   width: 376px;
+   height: 51.33px;
+   left: 182px;
+   top: 805px;
+}

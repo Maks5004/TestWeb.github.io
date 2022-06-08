@@ -1,0 +1,140 @@
+.first-screen__backpic1{
+   position: absolute;
+   width: 662.63px;
+   height: 783.03px;
+   left: 835.35px;
+   top: -17.31px;
+
+   background: rgba(250, 0, 255, 0.2);
+   filter: blur(150px);
+   transform: rotate(-105.26deg);
+}
+
+.first-screen__backpic2{
+   position: absolute;
+   width: 125px;
+   height: 125px;
+   left: 93px;
+   top: 470px;
+
+   background: rgba(96, 92, 234, 0.5);
+   filter: blur(50px);
+}
+
+.first-screen__title{
+   position: absolute;
+   width: 743px;
+   height: 140px;
+   left: 100px;
+   top: 275px;
+
+   font-size: 64px;
+   line-height: 70px;
+   /* or 109% */
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.first-screen__phoneshadow{
+   position: absolute;
+   width: 307.77px;
+   height: 631.35px;
+   left: 892.11px;
+   top: 159.6px;
+
+   background: #000000;
+   opacity: 0.4;
+   filter: blur(51.6833px);
+}
+
+.first-screen__iphonx{
+   position: absolute;
+   width: 332.88px;
+   height: 667.8px;
+   left: 923px;
+   top: 150px;
+   background: url(../img/iPhoneX.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.first-screen__line{
+   position: absolute;
+   width: 139.43px;
+   height: 0px;
+   left: 68px;
+   top: 563px;
+
+   border: 2px solid #FFFFFF;
+   transform: rotate(120.61deg);
+}
+
+.first-screen__text_info{
+   position: absolute;
+   width: 380px;
+   height: 81px;
+   left: 205px;
+   top: 544px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 27px;
+   display: flex;
+   align-items: flex-end;
+}
+
+.first-screen__h2_download{
+   position: absolute;
+   width: 413px;
+   height: 70px;
+   left: 100px;
+   top: 868px;
+
+   font-size: 35px;
+   line-height: 70px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.first-screen__stores{
+   position: relative;
+   width: 376px;
+   height: 51.33px;
+   left: 901px;
+   top: 901px;
+}
+
+.first-screen__appstore{
+   cursor: pointer;
+   position: absolute;
+   width: 163.53px;
+   height: 51.33px;
+   position: absolute;
+   background: url(../img/appstore_pic.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
+.first-screen__googleplay{
+   cursor: pointer;
+   position: absolute;
+   width: 183.89px;
+   height: 51.33px;
+   right:0px;
+   position: absolute;
+   background: url(../img/googleplay_pic.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
+.first-screen__googleplay:hover {
+   animation: bounce 1s;
+}
+
+.first-screen__appstore:hover {
+   animation: bounce 1s;
+}

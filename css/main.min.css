@@ -1,0 +1,354 @@
+@font-face {
+   font-family: 'Noto Sans';
+   src: url(../fonts/NotoSans-Regular.ttf);
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url(../fonts/Robotomedium.ttf);
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url(../fonts/Montserrat-Bold.ttf);
+}
+
+@font-face {
+   font-family: 'Avenir';
+   src: url(../fonts/Avenir-Roman.ttf);
+}
+
+
+@keyframes bounce {
+   0%, 20%, 60%, 100% {
+      transform: translateY(0);
+      transform: translateY(0);
+   }
+
+   40% {
+      transform: translateY(-10px);
+      transform: translateY(-10px);
+   }
+
+   80% {
+      transform: translateY(-5px);
+      transform: translateY(-5px);
+   }
+}
+
+body {
+   position: relative;
+   width: 100%;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: #000000
+}
+
+p {
+   margin: 0;
+   color: #FFFFFF;
+}
+
+h1,h2{
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   color: #FFFFFF;
+}
+
+h2{
+   font-size: 51px;
+   line-height: 62px;
+}
+
+span {
+   margin: 0;
+}
+
+.text{
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 25px;
+   color: #FFFFFF;
+}
+
+.page-bg {
+   position: relative;
+   width: 1440px;
+   height: 10784px;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   margin: auto;
+   overflow: hidden;
+
+   background: #000000
+}
+
+.main-header__logo-icon
+{
+   position: absolute;
+   width: 107px;
+   height: 109px;
+   left: 85px;
+   top: 23px;
+
+   background: url(../img/Cube_new_version-05.png);
+   background-size: contain;
+}
+
+.main-header__logo-name{
+   position: absolute;
+   width: 96px;
+   height: 24.75px;
+   left: 200px;
+   top: 69px;
+
+   background: url(../img/NoTab.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+
+}
+
+.main-header__login-pic{
+   position: absolute;
+   width: 26px;
+   height: 24.99px;
+   left: 404px;
+   top: 69px;
+}
+
+.main-header__login-text{
+   cursor: pointer;
+
+   position: absolute;
+   width: 49px;
+   height: 25px;
+   left: 444px;
+   top: 69px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 25px;
+
+   border: 1px solid #000000;
+}
+
+.main-header__login-text:hover {
+   animation: bounce 1s;
+}
+
+.main-header__login-line{
+   position: absolute;
+   width: 54px;
+   height: 0px;
+   left: 442px;
+   top: 94px;
+
+   border: 1px solid #FFFFFF;
+}
+
+.main-footer{
+  position: absolute;
+  width: 1440px;
+  height: 556px;
+  top: 10228px;
+}
+
+.main-footer__fon1{
+   position: absolute;
+   width: 400px;
+   height: 400px;
+   left: -21px;
+   top: 294px;
+   background-size: contain;
+   background-repeat: no-repeat;
+   background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+   opacity: 0.3;
+   filter: blur(80px);
+   transform: rotate(5.78deg);
+}
+
+.main-footer__download{
+   position: absolute;
+   width: 300px;
+   height: 33px;
+   left: 570px;
+   top: 91px;
+   font-size: 24px;
+   line-height: 33px;
+   letter-spacing: 0.03em;
+}
+
+.main-footer__stores{
+   position: absolute;
+   width: 610.13px;
+   height: 81.27px;
+   left: 415px;
+   top: 165px;
+}
+
+.main-footer__appstore{
+   cursor: pointer;
+   position: absolute;
+   width: 259px;
+   height: 81.27px;
+   position: absolute;
+   background: url(../img/appstore_pic.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
+.main-footer__googleplay{
+   cursor: pointer;
+   position: absolute;
+   width: 292px;
+   height: 81.27px;
+   right:0px;
+   position: absolute;
+   background: url(../img/googleplay_pic.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
+.main-footer__appstore:hover {
+   animation: bounce 1s;
+}
+
+.main-footer__googleplay:hover {
+   animation: bounce 1s;
+}
+
+.main-footerlogo{
+   position: absolute;
+   width: 81.01px;
+   height: 16.15px;
+   left: 99px;
+   top: 393px;
+}
+
+.main-footer__contact{
+   position: absolute;
+   width: 171px;
+   height: 50px;
+   left: 99px;
+   top: 425px;
+
+   font-family: 'Avenir';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 25px;
+}
+
+.main-footer__co{
+   position: absolute;
+   width: 148px;
+   height: 25px;
+   left: 100px;
+   top: 494px;
+
+   font-family: 'Avenir';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 18px;
+   line-height: 25px;
+}
+
+.main-footer__ttu{
+   position: absolute;
+   width: 107px;
+   height: 25px;
+   left: 1225px;
+   top: 388px;
+
+   font-family: 'Avenir';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 18px;
+   line-height: 25px;
+/* identical to box height */
+   text-align: right;
+}
+
+.main-footer__pp{
+   position: absolute;
+   width: 115px;
+   height: 25px;
+   left: 1225px;
+   top: 438px;
+
+   font-family: 'Avenir';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 18px;
+   line-height: 25px;
+   text-align: right;
+}
+
+.cookies{
+   position: absolute;
+   width: 1440px;
+   height: 93px;
+   left: 0%;
+   right: 0%;
+   top: 0px;
+   margin: auto;
+   bottom:0;
+   background: #212834;
+}
+
+.cookiesdiv{
+   width: 100%;
+   height: 93px;
+   left: 0%;
+   right: 0%;
+   top: 11000px;
+   margin: auto;
+   position:fixed;
+   bottom:0;
+   background: #212834;
+   display:none;
+}
+
+.cookies__text{
+   position: absolute;
+   width: 810px;
+   height: 19px;
+   left: 100px;
+   top: 36px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 19px;
+}
+
+.cookies__submit{
+   cursor: pointer;
+   position: absolute;
+   width: 132px;
+   height: 50px;
+   left: 1284px;
+   top: 21px;
+
+   background: rgba(255, 255, 255, 0.1);
+   border: 0.5px solid #FFFFFF;
+   border-radius: 6px;
+
+   font-family: 'Noto Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 19px;
+   text-align: center;
+   color: #ffffff;
+}

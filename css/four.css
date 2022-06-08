@@ -1,0 +1,54 @@
+.four-screen{
+   position: absolute;
+   width: 1440px;
+   height: 1024px;
+   left: 0px;
+   top: 3530px;
+}
+
+.four-screen__fon1{
+   width: 426.21px;
+   height: 438.35px;
+   position: absolute;
+   left: -111px;
+   top: 174px;
+
+   background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+   opacity: 0.1;
+   filter: blur(250px);
+   transform: rotate(5.78deg);
+}
+
+.four-screen__h2_bltool{
+   position: absolute;
+   width: 497px;
+   height: 62px;
+   left: 100px;
+   top: 334px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.four-screen__bltool{
+   position: absolute;
+   width: 395px;
+   height: 119px;
+   left: 101px;
+   top: 449px;
+
+   display: flex;
+   align-items: center;
+}
+
+.four-screen__diagram{
+   position: absolute;
+   width: 703px;
+   height: 522px;
+   left: 622px;
+   top: 275px;
+
+   background: url(../img/diagrams.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}

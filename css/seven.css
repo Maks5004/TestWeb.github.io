@@ -1,0 +1,106 @@
+.seven-screen{
+   position: absolute;
+   width: 1440px;
+   height: 1024px;
+   left: 0px;
+   top: 6692px;
+}
+
+.seven-screen__h2_guests{
+   position: absolute;
+   width: 421px;
+   height: 124px;
+   left: 859px;
+   top: 170px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.seven-screen__guests{
+   position: absolute;
+   width: 365px;
+   height: 25px;
+   left: 864px;
+   top: 345px;
+
+   display: flex;
+   align-items: flex-end;
+}
+
+.seven-screen__iPhoneXSlong{
+   position: absolute;
+   width: 868px;
+   height: 1038.21px;
+   left: 311px;
+   top: 367px;
+   background: url(../img/iPhoneXSlong.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.seven-screen__backpic1{
+   position: absolute;
+   width: 287px;
+   height: 267px;
+   left: 1250px;
+   top: 387px;
+   background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+   opacity: 0.2;
+   filter: blur(100px);
+   transform: rotate(5.78deg);
+}
+
+.seven-screen__advant{
+   box-sizing: border-box;
+   position: absolute;
+   background: #000000;
+   border: 0.76007px solid rgba(255, 255, 255, 0.5);
+   border-radius: 18.2417px;
+}
+
+.seven-screen__adv_smalltext{
+   text-align: left;
+   position: relative;
+   left: 10%;
+   top: 50%;
+   -ms-transform: translateY(-50%);
+   -webkit-transform: translateY(-50%);
+   transform: translateY(-50%);
+
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 22.8021px;
+   line-height: 27px;
+   display: flex;
+   align-items: flex-end;
+}
+
+.adv1{
+   width: 285px;
+   height: 113px;
+   left: 287px;
+   top: 726px;
+}
+
+.adv2{
+   width: 266.78px;
+   height: 98.81px;
+   left: 786px;
+   top: 571px;
+}
+
+.adv3{
+   width: 175.58px;
+   height: 65.37px;
+   left: 509px;
+   top: 1097px;
+}
+
+.adv4{
+   width: 185px;
+   height: 91px;
+   left: 1006px;
+   top: 1006px;
+}
